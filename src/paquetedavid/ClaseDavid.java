@@ -11,10 +11,9 @@ package paquetedavid;
  * @author DAVID
  */
 public class ClaseDavid {
-    public static void ClaseDavid(String [] args){
+    public static void main (String [] args){
         
-        System.out.println("Hola Isai");
-        System.out.println("Esta clase es nueva, que lo sepas");
-        System.out.println("Adios Isai");
+        System.out.println("todo borrado");
+     
     }
 }
