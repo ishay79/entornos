@@ -10,11 +10,12 @@ package paqueteisai;
  */
 public class ClaseIsai {
     public static void main (String [] args) {
+// --------------------------------------------------       
         System.out.println("Hola");
 // --------------------------------------------------
-        System.out.println("Clase recibida y");
-        System.out.println("MODIFICADA");
+        System.out.println("Clase recibida y MODIFICADA");
 // --------------------------------------------------
         System.out.println("Adios");
+// --------------------------------------------------
     }
 }

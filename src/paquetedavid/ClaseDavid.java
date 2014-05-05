@@ -15,7 +15,8 @@ public class ClaseDavid {
         
         System.out.println("todo borrado");
         
-        System.out.println("Este cambio esta sin añadir");
-     
+        System.out.println("Este cambio esta añadido al head");
+
+        System.out.println("Ahora ahy que subirlo a GitHub");      
     }
 }
