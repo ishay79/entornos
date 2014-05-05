@@ -8,6 +8,7 @@ package paqueteisai;
 
 /**
  *
+<<<<<<< HEAD
  * @author DAVID
  */
 public class ModificadaPorAmbos {
@@ -21,8 +22,8 @@ public class ModificadaPorAmbos {
         return "ModificadaPorAmbos{" + '}';
     }
     
-    
-    
-    
+    public void saludo (){
+        System.out.println("Hi!");
+    }
     
 }
